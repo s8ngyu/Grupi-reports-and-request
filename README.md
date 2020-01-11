@@ -5,6 +5,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ### Features
 - [ ] Dark mode
 - [ ] Option to have round app icons on the banner
+- [ ] Ceneterize cells
 
 ### Bug fixes
 
