@@ -5,8 +5,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ### Features
 - [x] Dark mode
 - [x] Option to have square app icons
-- [x] Ceneterize cells
 
 ### Bug fixes
-
+- [x] Ceneterize cells
  
