@@ -4,7 +4,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ## Version 1.0.1 (Hasn't been released)
 ### Features
 - [x] Dark mode
-- [ ] Option to have round app icons on the banner
+- [x] Option to have square app icons
 - [x] Ceneterize cells
 
 ### Bug fixes
