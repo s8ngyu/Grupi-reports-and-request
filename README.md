@@ -14,3 +14,4 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 
 ### Bug fixes
 - [ ] Make badge's background color darker
+- [ ] Make cells semi-transparent instead of dimming
