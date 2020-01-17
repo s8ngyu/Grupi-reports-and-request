@@ -11,6 +11,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
  
 ## Version 1.0.2 (Hasn't been released)
 ### Features
+- [ ] Controls dark mode with system dark mode of iOS
 
 ### Bug fixes
 - [ ] Make badge's background color darker
