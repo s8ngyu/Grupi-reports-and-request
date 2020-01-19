@@ -14,5 +14,5 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 - [ ] Controls dark mode with system dark mode of iOS
 
 ### Bug fixes
-- [ ] Make badge's background color darker
-- [ ] Make cells semi-transparent instead of dimming
+- [x] Make badge's background color better
+- [x] Make cells semi-transparent instead of overlay dark view
