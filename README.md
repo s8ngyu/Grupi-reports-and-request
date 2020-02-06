@@ -9,10 +9,18 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ### Bug fixes
 - [x] Ceneterize cells
  
-## Version 1.0.2 (Hasn't been released)
+## Version 1.0.2 (Has been released)
 ### Features
 - [x] Controls dark mode with system dark mode of iOS
 
 ### Bug fixes
 - [x] Make badge's background color better
 - [x] Make cells semi-transparent instead of overlay dark view
+
+## Version 1.0.3 (Hasn't been released)
+### Features
+- [x] Alignment control (Left|Center(Default)|Right)
+- [ ] Vertical option
+
+### Bug fixes
+- [ ] Fix cell style not changing when iOS changed dark mode by time automatically
