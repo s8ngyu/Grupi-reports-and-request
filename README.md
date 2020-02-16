@@ -20,6 +20,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ## Version 1.0.3 (Hasn't been released)
 ### Features
 - [x] Alignment control (Left|Center(Default)|Right)
+- [ ] Ture Dark Mode
 
 ### Bug fixes
 - [ ] Fix cell style not changing when iOS changed dark mode by time automatically
