@@ -20,7 +20,7 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 ## Version 1.0.3 (Has been released)
 ### Features
 - [x] Alignment control (Left|Center(Default)|Right)
-- [ ] Mini Player for iOS 13!
+- [x] Mini Player for iOS 13!
 
 ### Bug fixes
 - [x] Fix cell style not changing when iOS changed dark mode by time automatically
