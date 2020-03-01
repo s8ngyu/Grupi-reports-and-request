@@ -17,10 +17,10 @@ Go **Issues** tab and click **New Issue** to report or request anything.
 - [x] Make badge's background color better
 - [x] Make cells semi-transparent instead of overlay dark view
 
-## Version 1.0.3 (Hasn't been released)
+## Version 1.0.3 (Has been released)
 ### Features
 - [x] Alignment control (Left|Center(Default)|Right)
-- [ ] Ture Dark Mode
+- [ ] Mini Player for iOS 13!
 
 ### Bug fixes
-- [ ] Fix cell style not changing when iOS changed dark mode by time automatically
+- [x] Fix cell style not changing when iOS changed dark mode by time automatically
